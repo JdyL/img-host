@@ -1,32 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 348 348" style="enable-background:new 0 0 348 348;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#C4C4C4;filter:url(#Adobe_OpacityMaskFilter);}
-	.st1{mask:url(#mask0_1_);}
-	.st2{fill:#BEE8FF;}
-	.st3{fill:#2FB9F4;}
-	.st4{fill:#86FFFF;}
-	.st5{fill:#0F4AE1;}
-</style>
-<g>
-	<defs>
-		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-22" y="-51.4" width="426.2" height="409.3">
-			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-		</filter>
-	</defs>
-	<mask maskUnits="userSpaceOnUse" x="-22" y="-51.4" width="426.2" height="409.3" id="mask0_1_">
-		<circle class="st0" cx="174" cy="174" r="124"/>
-	</mask>
-	<g class="st1">
-		<path class="st2" d="M171.9,332.9c-95.4-55.1,115.1-14.2,232.3,13.1l-17.4-218.7L83.4,51.6L27.3,307.7
-			C115.3,339.1,267.3,388,171.9,332.9z"/>
-		<path class="st3" d="M141.9,299.9c-95.4-55.1,115.1-14.2,232.3,13.1L356.9,94.3L53.4,18.6L-2.7,274.7
-			C85.3,306.1,237.3,355,141.9,299.9z"/>
-		<path class="st4" d="M210.7,229.9c95.4-55.1-115.1-14.2-232.3,13.1L-4.2,24.3l303.4-75.7l56.1,256.1
-			C267.4,236.1,115.3,285,210.7,229.9z"/>
-		<path class="st5" d="M179,145c102.4-4.8-91.3-33.3-201-47L80-4l286,33l-55,137C224.3,161,76.6,149.8,179,145z"/>
-	</g>
+<svg width="395" height="384" viewBox="0 0 395 384" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)" filter="url(#filter0_d)">
+<rect x="76" y="68" width="247" height="259" fill="#C4C4C4"/>
+<path d="M229 371C133.62 315.895 312.058 337.703 429.225 365.027L411.853 146.318L108.402 70.6071L34 333C121.962 364.368 324.38 426.105 229 371Z" fill="#BEE8FF"/>
+<path d="M166.949 318.936C71.5695 263.83 282.058 304.703 399.225 332.027L381.853 113.318L78.4022 37.6071L22.2881 293.714C110.25 325.082 262.329 374.041 166.949 318.936Z" fill="#2FB9F4"/>
+<path d="M235.729 248.936C331.108 193.83 120.619 234.703 3.4527 262.027L20.8252 43.3175L324.275 -32.3929L380.39 223.714C292.428 255.082 140.349 304.041 235.729 248.936Z" fill="#86FFFF"/>
+<path d="M193.879 161.653C301.821 156.316 97.6022 124.594 -18 109.4L89.5206 -4L391 32.6882L366 188C274.643 182.441 85.9366 166.989 193.879 161.653Z" fill="#0F4AE1"/>
 </g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="395" height="384" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.525 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="295" height="284" fill="white" transform="translate(50 50)"/>
+</clipPath>
+</defs>
 </svg>
